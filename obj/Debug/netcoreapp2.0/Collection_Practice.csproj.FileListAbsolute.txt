@@ -1,0 +1,11 @@
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\bin\Debug\netcoreapp2.0\Collection_Practice.deps.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\bin\Debug\netcoreapp2.0\Collection_Practice.runtimeconfig.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\bin\Debug\netcoreapp2.0\Collection_Practice.runtimeconfig.dev.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\bin\Debug\netcoreapp2.0\Collection_Practice.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\bin\Debug\netcoreapp2.0\Collection_Practice.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\obj\Debug\netcoreapp2.0\Collection_Practice.csprojResolveAssemblyReference.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\obj\Debug\netcoreapp2.0\Collection_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\obj\Debug\netcoreapp2.0\Collection_Practice.AssemblyInfoInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\obj\Debug\netcoreapp2.0\Collection_Practice.AssemblyInfo.cs
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\obj\Debug\netcoreapp2.0\Collection_Practice.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Collection_Practice\obj\Debug\netcoreapp2.0\Collection_Practice.pdb
